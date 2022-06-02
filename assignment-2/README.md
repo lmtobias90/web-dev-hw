@@ -14,4 +14,4 @@ Links! square brackets to describe,parenthesis to link.  Image link needs a ! be
 
 [My Responses](./responses.txt)
 
-![Me and Fluffer](./assignment-1/me-and-fluffer.jpg)
+![Screenshot1](screenshot1.png)
