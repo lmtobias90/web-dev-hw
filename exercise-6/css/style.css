@@ -1,32 +1,44 @@
 h1 {
-  color: blue;
+  color: black;
+  background: lightgray;
+  align: left;
 }
 
-title {
-  background-color:ivory;
-  width: 600px;
+
+#pink {
+  background-color:pink;
+}
+
+#green {
+  background-color:green;
+}
+
+#yellow {
+  background-color:yellow;
+}
+
+#blue {
+  background-color:powderblue;
+}
+
+.square {
+  color: brown
+  width: 50%;
   margin: auto;
+  align: left;
+  padding: 5px;
+  border: 2px black;
+  }
+}
+
+h2 {
+  color: black;
+  background: lightgray;
   align: center;
-  padding: 40px;
-  border: 10px red;
-  }
+}
 
-
-container-right {
-  background-color:blue;
-  width: 600px;
-  margin: auto;
-  align:right
-  padding: 40px;
-  border: 10px red;
-  }
-
-
-container-left {
-  background-color:blue;
-  width: 600px;
-  align:left
-  margin: auto;
-  padding: 40px;
-  border: 10px red;
-  }
+h3 {
+  color: black;
+  background: lightgray;
+  align: right;   
+}
