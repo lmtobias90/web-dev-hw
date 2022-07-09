@@ -1,0 +1,32 @@
+h1 {
+  color: blue;
+}
+
+title {
+  background-color:ivory;
+  width: 600px;
+  margin: auto;
+  align: center;
+  padding: 40px;
+  border: 10px red;
+  }
+
+
+container-right {
+  background-color:blue;
+  width: 600px;
+  margin: auto;
+  align:right
+  padding: 40px;
+  border: 10px red;
+  }
+
+
+container-left {
+  background-color:blue;
+  width: 600px;
+  align:left
+  margin: auto;
+  padding: 40px;
+  border: 10px red;
+  }
