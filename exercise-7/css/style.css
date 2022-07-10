@@ -52,4 +52,19 @@ nav {
   vertical-align:top;
 }
 
+a:link {
+   color: #79AF33;
+   text-decoration: none;
+}
+
+a:visited {
+   color: #4d4dff;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #1CCDCA;
+   font-style: italic;
+}
+
 </style>
