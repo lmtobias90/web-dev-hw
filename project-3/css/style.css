@@ -1,9 +1,18 @@
 <style>
 
-  body {background-color: #ffffcc}
+  body {background-color: #black}
   h1 {color: }
   h2 {color: }
+  h3 {}
   h4 {color: }
+
+  nav {
+    background-color:white;
+    color: black;
+    text-align:center;
+    border-color:darkorange;
+    padding:3px;  
+  }
 
   .title-container {
     background-color:white;
@@ -22,4 +31,14 @@
     padding: 20px;
     border: 1px solid black;
   }
+
+    .links-container {
+      background-color:white;
+      text-align: center;
+      width: 600px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid black;
+    }
+  </style>
 </style>
