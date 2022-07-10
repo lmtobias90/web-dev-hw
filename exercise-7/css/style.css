@@ -1,0 +1,46 @@
+<style>
+
+  body {
+    text-align: center;
+  }
+
+  .heading {
+    font-family: georgia, times new roman, serif;
+    font-size: 16pt;
+    font-weight: bold;
+    line-height:normal;
+  }
+
+  .text {
+    font-family: candara, tahoma, sans-serif;
+    border: 1px #0000cc;
+    background-color: ivory;
+    padding: 10px;
+
+  }
+
+  h1 {
+    color: #000099;
+    font-weight:bold;
+  }
+
+  h2 {
+    color: #0000cc;
+    font-weight: normal;
+    font-style: italic;
+  }
+
+  h3 {
+    color: #4d4dff;
+    font-weight:lighter;
+
+  }
+
+  p {
+    color: black;
+    text-align: justify;
+    letter-spacing: .8em;
+    text-indent: 5px;
+  }
+
+</style>

@@ -4,10 +4,11 @@
            text-align: center;
            padding: 10px;
          }
-        li {
-           display: inline;
-           padding: 5px;
-         }
+         
+    li {
+         display: inline;
+         padding: 5px;
+       }
 
    .heading-container {
      background-color:"lightgray";
@@ -35,6 +36,6 @@
 
     h1 {
       text-align: center;
-
     }
+
 </style>
