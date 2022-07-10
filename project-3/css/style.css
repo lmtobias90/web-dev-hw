@@ -1,0 +1,25 @@
+<style>
+
+  body {background-color: #ffffcc}
+  h1 {color: }
+  h2 {color: }
+  h4 {color: }
+
+  .title-container {
+    background-color:white;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+  }
+
+  .elements-container {
+    background-color:#d7dade;
+    text-align: left;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+  }
+</style>
