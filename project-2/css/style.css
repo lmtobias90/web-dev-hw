@@ -1,0 +1,29 @@
+<style>
+    ul {
+           background-color:ivory;
+           text-align: center;
+           padding: 10px;
+         }
+        li {
+           display: inline;
+           padding: 5px;
+         }
+
+   .heading-container {
+     background-color:"lightgray";
+     text-align: center;
+     width: 600px;
+     margin: auto;
+     padding: 20px;
+     border: 10px solid black;
+         }
+
+   .section-container {
+     background-color:white;
+     text-align: center;
+     width: 600px;
+     margin: auto;
+     padding: 20px;
+     border: 1px solid black;
+         }
+</style>
