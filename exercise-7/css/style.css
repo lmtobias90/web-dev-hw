@@ -33,7 +33,6 @@
   h3 {
     color: #4d4dff;
     font-weight:lighter;
-
   }
 
   p {
@@ -43,11 +42,10 @@
     text-indent: 5px;
   }
 
-nav{
+nav {
   border: navy, 3px;
   text-align: center;
   vertical-align:top;
-
 }
 
 </style>
