@@ -53,14 +53,14 @@ nav {
 }
 
 a:link {
-   color: #79AF33;
+   color: #4d4dff;
    text-decoration: none;
 }
 
 a:visited {
-   color: #4d4dff;
+   color: gray;
    text-decoration: none;
-   font-style: italic;
+   font-style: none;
 }
 
 a:hover {
