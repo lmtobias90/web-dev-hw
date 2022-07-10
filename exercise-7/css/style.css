@@ -43,4 +43,11 @@
     text-indent: 5px;
   }
 
+nav{
+  border: navy 3px;
+  text-align: center;
+  vertical-align:top;
+
+}
+
 </style>
