@@ -1,5 +1,15 @@
 <style>
 
+  ul {
+     background-color: lightgray;
+     text-align: center;
+     padding: 10px;
+   }
+  li {
+     display: inline;
+     padding: 5px;
+   }
+
   body {background-color: #black}
   h1 {color: }
   h2 {color: }
